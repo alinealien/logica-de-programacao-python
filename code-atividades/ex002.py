@@ -2,7 +2,7 @@
 #Crie um programa que leia uma variável e retorne diversas informações sobre ela
 
 x = 50
-y = 20
+y = 30
 
 a = "Eu sou uma String"
 b = 1.70
